@@ -1,7 +1,7 @@
 {
   "name": "atom-darkish-syntax",
   "theme": "syntax",
-  "version": "0.28.0",
+  "version": "0.28.1",
   "description": "A darkish theme for syntax",
   "repository": "https://github.com/sebzap/atom-darkish-syntax",
   "license": "MIT",
